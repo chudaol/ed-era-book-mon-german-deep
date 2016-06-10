@@ -30,7 +30,7 @@
 Wo wohnst du? — Ich wohne in Deutschland/in der Ukraine/in der Stadt/auf dem Dorf.<br>
 Ist deine Wohnung/dein Haus groß/...?<br>
 Mein Zimmer ist...<br>
-Im.../In der.../In meinem Zimmer gibt es/steht/hängt/liegt...<br>
+Im.../In der.../In meinem Zimmer gibt es/steht/<br>hängt/liegt...<br>
 Die Natur hier ist...<br>
 Wir fahren mit dem Zug.<br>
 Das Auto ist schnell, der Zug ist schneller, das Flugzeug ist am schnellsten.<br>

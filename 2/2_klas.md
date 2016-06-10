@@ -35,7 +35,7 @@
     <td width="60%" style="vertical-align:top !important;" rowspan="3">
 Das ist ein Junge. Der Junge ist klein. Das sind Hefte. Die Hefte sind blau.<br>
 Was hast du?<br>
-— Ich habe einen/eine/ein/keinen/keine/kein…<br>
+— Ich habe einen/eine/ein/<br>keinen/keine/kein…<br>
 Hast du einen/eine/ein…?<br>
 — Ja,/Nein, ich habe...<br>
 Was machst du am Montag/...?<br>

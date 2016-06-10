@@ -47,7 +47,7 @@ Es ist kalt/... heute.<br>
 Es schneit/regnet/...<br>
 Wann ist dein Geburtstag?/Wann hast du Geburtstag? — Mein Geburtstag ist der 12.<br>
 Mai./Ich habe am 12. Mai Geburtstag.<br>
-Was hast du am/im/um...gemacht? — Ich habe Fußball gespielt.<br>
+Was hast du am/im/<br>um...gemacht? — Ich habe Fußball gespielt.<br>
 Welche Fächer hast du am Montag/...? Wann hast du Mathe?<br>
 </td>
   </tr>
